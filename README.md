@@ -1,0 +1,2 @@
+# Machine Learning
+Welcome to the Machine Learning Repository! This repository is designed for anyone interested in exploring, learning, or contributing to machine learning projects. Whether you're a beginner or an experienced ML enthusiast, you'll find useful resources, scripts, and projects here.
